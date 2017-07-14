@@ -56,7 +56,7 @@ oldcolouricons=4d4d4d
 
 newcolourtop=284b87
 newcolourbody=3360ae
-newcolouricons=c7c7c7
+newcolouricons=fafafa
 
 ### Do not change the next lines
 ### Now all the icons will change colour.
